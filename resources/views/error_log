@@ -1,0 +1,32 @@
+[10-Mar-2026 02:28:37 UTC] PHP Warning:  Undefined variable $balance in /home/it0ucf7jrx76/public_html/duelo/v2/resources/views/account.php on line 16
+[10-Mar-2026 02:28:37 UTC] PHP Warning:  Undefined variable $totalWins in /home/it0ucf7jrx76/public_html/duelo/v2/resources/views/account.php on line 22
+[10-Mar-2026 02:29:02 UTC] PHP Warning:  Undefined variable $activities in /home/it0ucf7jrx76/public_html/duelo/v2/resources/views/activity.php on line 74
+[10-Mar-2026 02:29:02 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/it0ucf7jrx76/public_html/duelo/v2/resources/views/activity.php on line 74
+[10-Mar-2026 02:29:13 UTC] PHP Warning:  Undefined variable $coupons in /home/it0ucf7jrx76/public_html/duelo/v2/resources/views/admin_coupons.php on line 67
+[10-Mar-2026 02:29:13 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/it0ucf7jrx76/public_html/duelo/v2/resources/views/admin_coupons.php on line 67
+[10-Mar-2026 02:30:04 UTC] PHP Warning:  Undefined variable $picks in /home/it0ucf7jrx76/public_html/duelo/v2/resources/views/bet_view.php on line 19
+[10-Mar-2026 02:30:04 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/it0ucf7jrx76/public_html/duelo/v2/resources/views/bet_view.php on line 19
+[10-Mar-2026 02:30:30 UTC] PHP Warning:  Undefined variable $coupon in /home/it0ucf7jrx76/public_html/duelo/v2/resources/views/coupon.php on line 70
+[10-Mar-2026 02:30:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/it0ucf7jrx76/public_html/duelo/v2/resources/views/coupon.php on line 70
+[10-Mar-2026 02:30:30 UTC] PHP Warning:  Undefined variable $coupon in /home/it0ucf7jrx76/public_html/duelo/v2/resources/views/coupon.php on line 75
+[10-Mar-2026 02:30:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/it0ucf7jrx76/public_html/duelo/v2/resources/views/coupon.php on line 75
+[10-Mar-2026 02:30:30 UTC] PHP Warning:  Undefined variable $coupon in /home/it0ucf7jrx76/public_html/duelo/v2/resources/views/coupon.php on line 79
+[10-Mar-2026 02:30:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/it0ucf7jrx76/public_html/duelo/v2/resources/views/coupon.php on line 79
+[10-Mar-2026 02:30:30 UTC] PHP Warning:  Undefined variable $coupon in /home/it0ucf7jrx76/public_html/duelo/v2/resources/views/coupon.php on line 83
+[10-Mar-2026 02:30:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/it0ucf7jrx76/public_html/duelo/v2/resources/views/coupon.php on line 83
+[10-Mar-2026 02:30:30 UTC] PHP Warning:  Undefined variable $coupon in /home/it0ucf7jrx76/public_html/duelo/v2/resources/views/coupon.php on line 110
+[10-Mar-2026 02:30:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/it0ucf7jrx76/public_html/duelo/v2/resources/views/coupon.php on line 110
+[10-Mar-2026 02:30:30 UTC] PHP Warning:  Undefined variable $matches in /home/it0ucf7jrx76/public_html/duelo/v2/resources/views/coupon.php on line 122
+[10-Mar-2026 02:30:30 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/it0ucf7jrx76/public_html/duelo/v2/resources/views/coupon.php on line 122
+[10-Mar-2026 02:30:56 UTC] PHP Warning:  Undefined variable $coupons in /home/it0ucf7jrx76/public_html/duelo/v2/resources/views/coupons.php on line 68
+[10-Mar-2026 02:30:56 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/it0ucf7jrx76/public_html/duelo/v2/resources/views/coupons.php on line 68
+[10-Mar-2026 02:32:07 UTC] PHP Warning:  Undefined variable $ranking in /home/it0ucf7jrx76/public_html/duelo/v2/resources/views/duel_ranking_weekly.php on line 44
+[10-Mar-2026 02:32:07 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/it0ucf7jrx76/public_html/duelo/v2/resources/views/duel_ranking_weekly.php on line 44
+[10-Mar-2026 02:32:14 UTC] PHP Warning:  Undefined variable $ranking in /home/it0ucf7jrx76/public_html/duelo/v2/resources/views/duel_ranking.php on line 55
+[10-Mar-2026 02:32:14 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/it0ucf7jrx76/public_html/duelo/v2/resources/views/duel_ranking.php on line 55
+[10-Mar-2026 02:32:23 UTC] PHP Warning:  Undefined variable $matches in /home/it0ucf7jrx76/public_html/duelo/v2/resources/views/duel_create.php on line 67
+[10-Mar-2026 02:32:23 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/it0ucf7jrx76/public_html/duelo/v2/resources/views/duel_create.php on line 67
+[10-Mar-2026 02:32:42 UTC] PHP Warning:  Undefined variable $status in /home/it0ucf7jrx76/public_html/duelo/v2/resources/views/cron_status.php on line 46
+[10-Mar-2026 02:32:42 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/it0ucf7jrx76/public_html/duelo/v2/resources/views/cron_status.php on line 46
+[10-Mar-2026 02:33:11 UTC] PHP Warning:  Undefined variable $matches in /home/it0ucf7jrx76/public_html/duelo/v2/resources/views/duel_create.php on line 67
+[10-Mar-2026 02:33:11 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/it0ucf7jrx76/public_html/duelo/v2/resources/views/duel_create.php on line 67
