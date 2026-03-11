@@ -1,0 +1,4 @@
+[11-Mar-2026 18:42:52 UTC] PHP Fatal error:  Uncaught Error: Class "Database" not found in /home/it0ucf7jrx76/public_html/duelo/v2/scripts/_internal_discovery_tables.php:160
+Stack trace:
+#0 {main}
+  thrown in /home/it0ucf7jrx76/public_html/duelo/v2/scripts/_internal_discovery_tables.php on line 160

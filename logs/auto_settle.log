@@ -1,0 +1,1762 @@
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Settling coupon ID: 2
+
+Fatal error: Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/it0ucf7jrx76/public_html/duelo/v2/app/Services/PrizeService.php:51
+Stack trace:
+#0 /home/it0ucf7jrx76/public_html/duelo/v2/scripts/auto_settle.php(52): PrizeService->settleCoupon()
+#1 {main}
+  thrown in /home/it0ucf7jrx76/public_html/duelo/v2/app/Services/PrizeService.php on line 51
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Settling coupon ID: 2
+
+Fatal error: Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/it0ucf7jrx76/public_html/duelo/v2/app/Services/PrizeService.php:51
+Stack trace:
+#0 /home/it0ucf7jrx76/public_html/duelo/v2/scripts/auto_settle.php(52): PrizeService->settleCoupon()
+#1 {main}
+  thrown in /home/it0ucf7jrx76/public_html/duelo/v2/app/Services/PrizeService.php on line 51
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Settling coupon ID: 2
+
+Fatal error: Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/it0ucf7jrx76/public_html/duelo/v2/app/Services/PrizeService.php:51
+Stack trace:
+#0 /home/it0ucf7jrx76/public_html/duelo/v2/scripts/auto_settle.php(52): PrizeService->settleCoupon()
+#1 {main}
+  thrown in /home/it0ucf7jrx76/public_html/duelo/v2/app/Services/PrizeService.php on line 51
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Settling coupon ID: 2
+
+Fatal error: Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/it0ucf7jrx76/public_html/duelo/v2/app/Services/PrizeService.php:51
+Stack trace:
+#0 /home/it0ucf7jrx76/public_html/duelo/v2/scripts/auto_settle.php(52): PrizeService->settleCoupon()
+#1 {main}
+  thrown in /home/it0ucf7jrx76/public_html/duelo/v2/app/Services/PrizeService.php on line 51
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Settling coupon ID: 2
+
+Fatal error: Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/it0ucf7jrx76/public_html/duelo/v2/app/Services/PrizeService.php:51
+Stack trace:
+#0 /home/it0ucf7jrx76/public_html/duelo/v2/scripts/auto_settle.php(52): PrizeService->settleCoupon()
+#1 {main}
+  thrown in /home/it0ucf7jrx76/public_html/duelo/v2/app/Services/PrizeService.php on line 51
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Settling coupon ID: 2
+Coupon 2 settled.
+Settling coupon ID: 3
+Coupon 3 settled.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Settling coupon ID: 13
+Coupon 13 settled.
+Settling coupon ID: 14
+Coupon 14 settled.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Settling coupon ID: 1
+Coupon 1 settled.
+Settling coupon ID: 7
+Coupon 7 settled.
+Settling coupon ID: 9
+Coupon 9 settled.
+Settling coupon ID: 13
+Coupon 13 settled.
+Settling coupon ID: 14
+Coupon 14 settled.
+Settling coupon ID: 16
+Coupon 16 settled.
+Settling coupon ID: 17
+Coupon 17 settled.
+Settling coupon ID: 18
+Coupon 18 settled.
+Settling coupon ID: 21
+Coupon 21 settled.
+Settling coupon ID: 24
+Coupon 24 settled.
+Settling coupon ID: 26
+Coupon 26 settled.
+Settling coupon ID: 27
+Coupon 27 settled.
+Settling coupon ID: 32
+Coupon 32 settled.
+Settling coupon ID: 33
+Coupon 33 settled.
+Settling coupon ID: 34
+Coupon 34 settled.
+Settling coupon ID: 35
+Coupon 35 settled.
+Settling coupon ID: 36
+Coupon 36 settled.
+Settling coupon ID: 39
+Coupon 39 settled.
+Settling coupon ID: 44
+Coupon 44 settled.
+Settling coupon ID: 48
+Coupon 48 settled.
+Settling coupon ID: 56
+Coupon 56 settled.
+Settling coupon ID: 58
+Coupon 58 settled.
+Settling coupon ID: 69
+Coupon 69 settled.
+Settling coupon ID: 70
+Coupon 70 settled.
+Settling coupon ID: 75
+Coupon 75 settled.
+Settling coupon ID: 77
+Coupon 77 settled.
+Settling coupon ID: 85
+Coupon 85 settled.
+Settling coupon ID: 86
+Coupon 86 settled.
+Settling coupon ID: 100
+Coupon 100 settled.
+Settling coupon ID: 102
+Coupon 102 settled.
+Settling coupon ID: 114
+Coupon 114 settled.
+Settling coupon ID: 115
+Coupon 115 settled.
+Settling coupon ID: 120
+Coupon 120 settled.
+Settling coupon ID: 123
+Coupon 123 settled.
+Settling coupon ID: 125
+Coupon 125 settled.
+Settling coupon ID: 126
+Coupon 126 settled.
+Settling coupon ID: 127
+Coupon 127 settled.
+Settling coupon ID: 130
+Coupon 130 settled.
+Settling coupon ID: 132
+Coupon 132 settled.
+Settling coupon ID: 137
+Coupon 137 settled.
+Settling coupon ID: 138
+Coupon 138 settled.
+Settling coupon ID: 141
+Coupon 141 settled.
+Settling coupon ID: 147
+Coupon 147 settled.
+Settling coupon ID: 154
+Coupon 154 settled.
+Settling coupon ID: 155
+Coupon 155 settled.
+Settling coupon ID: 156
+Coupon 156 settled.
+Settling coupon ID: 157
+Coupon 157 settled.
+Settling coupon ID: 160
+Coupon 160 settled.
+Settling coupon ID: 162
+Coupon 162 settled.
+Settling coupon ID: 163
+Coupon 163 settled.
+Settling coupon ID: 164
+Coupon 164 settled.
+Settling coupon ID: 166
+Coupon 166 settled.
+Settling coupon ID: 167
+Coupon 167 settled.
+Settling coupon ID: 168
+Coupon 168 settled.
+Settling coupon ID: 170
+Coupon 170 settled.
+Settling coupon ID: 174
+Coupon 174 settled.
+Settling coupon ID: 176
+Coupon 176 settled.
+Settling coupon ID: 178
+Coupon 178 settled.
+Settling coupon ID: 181
+Coupon 181 settled.
+Settling coupon ID: 182
+Coupon 182 settled.
+Settling coupon ID: 184
+Coupon 184 settled.
+Settling coupon ID: 186
+Coupon 186 settled.
+Settling coupon ID: 187
+Coupon 187 settled.
+Settling coupon ID: 188
+Coupon 188 settled.
+Settling coupon ID: 193
+Coupon 193 settled.
+Settling coupon ID: 194
+Coupon 194 settled.
+Settling coupon ID: 195
+Coupon 195 settled.
+Settling coupon ID: 197
+Coupon 197 settled.
+Settling coupon ID: 199
+Coupon 199 settled.
+Settling coupon ID: 200
+Coupon 200 settled.
+Settling coupon ID: 202
+Coupon 202 settled.
+Settling coupon ID: 203
+Coupon 203 settled.
+Settling coupon ID: 205
+Coupon 205 settled.
+Settling coupon ID: 207
+Coupon 207 settled.
+Settling coupon ID: 216
+Coupon 216 settled.
+Settling coupon ID: 218
+Coupon 218 settled.
+Settling coupon ID: 223
+Coupon 223 settled.
+Settling coupon ID: 225
+Coupon 225 settled.
+Settling coupon ID: 227
+Coupon 227 settled.
+Settling coupon ID: 229
+Coupon 229 settled.
+Settling coupon ID: 231
+Coupon 231 settled.
+Settling coupon ID: 233
+Coupon 233 settled.
+Settling coupon ID: 237
+Coupon 237 settled.
+Settling coupon ID: 239
+Coupon 239 settled.
+Settling coupon ID: 241
+Coupon 241 settled.
+Settling coupon ID: 247
+Coupon 247 settled.
+Settling coupon ID: 249
+Coupon 249 settled.
+Settling coupon ID: 251
+Coupon 251 settled.
+Settling coupon ID: 254
+Coupon 254 settled.
+Settling coupon ID: 258
+Coupon 258 settled.
+Settling coupon ID: 265
+Coupon 265 settled.
+Settling coupon ID: 266
+Coupon 266 settled.
+Settling coupon ID: 267
+Coupon 267 settled.
+Settling coupon ID: 272
+Coupon 272 settled.
+Settling coupon ID: 276
+Coupon 276 settled.
+Settling coupon ID: 280
+Coupon 280 settled.
+Settling coupon ID: 285
+Coupon 285 settled.
+Settling coupon ID: 288
+Coupon 288 settled.
+Settling coupon ID: 291
+Coupon 291 settled.
+Settling coupon ID: 293
+Coupon 293 settled.
+Settling coupon ID: 296
+Coupon 296 settled.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Settling coupon ID: 10
+Coupon 10 settled.
+Settling coupon ID: 12
+Coupon 12 settled.
+Settling coupon ID: 13
+Coupon 13 settled.
+Settling coupon ID: 24
+Coupon 24 settled.
+Settling coupon ID: 25
+Coupon 25 settled.
+Settling coupon ID: 27
+Coupon 27 settled.
+Settling coupon ID: 28
+Coupon 28 settled.
+Settling coupon ID: 30
+Coupon 30 settled.
+Settling coupon ID: 40
+Coupon 40 settled.
+Settling coupon ID: 45
+Coupon 45 settled.
+Settling coupon ID: 55
+Coupon 55 settled.
+Settling coupon ID: 57
+Coupon 57 settled.
+Settling coupon ID: 58
+Coupon 58 settled.
+Settling coupon ID: 64
+Coupon 64 settled.
+Settling coupon ID: 67
+Coupon 67 settled.
+Settling coupon ID: 71
+Coupon 71 settled.
+Settling coupon ID: 82
+Coupon 82 settled.
+Settling coupon ID: 95
+Coupon 95 settled.
+Settling coupon ID: 97
+Coupon 97 settled.
+Settling coupon ID: 104
+Coupon 104 settled.
+Settling coupon ID: 105
+Coupon 105 settled.
+Settling coupon ID: 107
+Coupon 107 settled.
+Settling coupon ID: 111
+Coupon 111 settled.
+Settling coupon ID: 125
+Coupon 125 settled.
+Settling coupon ID: 128
+Coupon 128 settled.
+Settling coupon ID: 129
+Coupon 129 settled.
+Settling coupon ID: 134
+Coupon 134 settled.
+Settling coupon ID: 135
+Coupon 135 settled.
+Settling coupon ID: 137
+Coupon 137 settled.
+Settling coupon ID: 139
+Coupon 139 settled.
+Settling coupon ID: 143
+Coupon 143 settled.
+Settling coupon ID: 153
+Coupon 153 settled.
+Settling coupon ID: 154
+Coupon 154 settled.
+Settling coupon ID: 159
+Coupon 159 settled.
+Settling coupon ID: 167
+Coupon 167 settled.
+Settling coupon ID: 176
+Coupon 176 settled.
+Settling coupon ID: 177
+Coupon 177 settled.
+Settling coupon ID: 187
+Coupon 187 settled.
+Settling coupon ID: 203
+Coupon 203 settled.
+Settling coupon ID: 205
+Coupon 205 settled.
+Settling coupon ID: 207
+Coupon 207 settled.
+Settling coupon ID: 208
+Coupon 208 settled.
+Settling coupon ID: 212
+Coupon 212 settled.
+Settling coupon ID: 218
+Coupon 218 settled.
+Settling coupon ID: 224
+Coupon 224 settled.
+Settling coupon ID: 226
+Coupon 226 settled.
+Settling coupon ID: 229
+Coupon 229 settled.
+Settling coupon ID: 232
+Coupon 232 settled.
+Settling coupon ID: 238
+Coupon 238 settled.
+Settling coupon ID: 240
+Coupon 240 settled.
+Settling coupon ID: 249
+Coupon 249 settled.
+Settling coupon ID: 255
+Coupon 255 settled.
+Settling coupon ID: 262
+Coupon 262 settled.
+Settling coupon ID: 265
+Coupon 265 settled.
+Settling coupon ID: 266
+Coupon 266 settled.
+Settling coupon ID: 272
+Coupon 272 settled.
+Settling coupon ID: 276
+Coupon 276 settled.
+Settling coupon ID: 285
+Coupon 285 settled.
+Settling coupon ID: 293
+Coupon 293 settled.
+Settling coupon ID: 298
+Coupon 298 settled.
+Settling coupon ID: 302
+Coupon 302 settled.
+Settling coupon ID: 314
+Coupon 314 settled.
+Settling coupon ID: 327
+Coupon 327 settled.
+Settling coupon ID: 328
+Coupon 328 settled.
+Settling coupon ID: 337
+Coupon 337 settled.
+Settling coupon ID: 352
+Coupon 352 settled.
+Settling coupon ID: 356
+Coupon 356 settled.
+Settling coupon ID: 361
+Coupon 361 settled.
+Settling coupon ID: 372
+Coupon 372 settled.
+Settling coupon ID: 373
+Coupon 373 settled.
+Settling coupon ID: 374
+Coupon 374 settled.
+Settling coupon ID: 375
+Coupon 375 settled.
+Settling coupon ID: 376
+Coupon 376 settled.
+Settling coupon ID: 377
+Coupon 377 settled.
+Settling coupon ID: 378
+Coupon 378 settled.
+Settling coupon ID: 381
+Coupon 381 settled.
+Settling coupon ID: 383
+Coupon 383 settled.
+Settling coupon ID: 390
+Coupon 390 settled.
+Settling coupon ID: 392
+Coupon 392 settled.
+Settling coupon ID: 396
+Coupon 396 settled.
+Settling coupon ID: 401
+Coupon 401 settled.
+Settling coupon ID: 403
+Coupon 403 settled.
+Settling coupon ID: 405
+Coupon 405 settled.
+Settling coupon ID: 407
+Coupon 407 settled.
+Settling coupon ID: 415
+Coupon 415 settled.
+Settling coupon ID: 416
+Coupon 416 settled.
+Settling coupon ID: 419
+Coupon 419 settled.
+Settling coupon ID: 423
+Coupon 423 settled.
+Settling coupon ID: 430
+Coupon 430 settled.
+Settling coupon ID: 440
+Coupon 440 settled.
+Settling coupon ID: 441
+Coupon 441 settled.
+Settling coupon ID: 448
+Coupon 448 settled.
+Settling coupon ID: 459
+Coupon 459 settled.
+Settling coupon ID: 464
+Coupon 464 settled.
+Settling coupon ID: 467
+Coupon 467 settled.
+Settling coupon ID: 472
+Coupon 472 settled.
+Settling coupon ID: 476
+Coupon 476 settled.
+Settling coupon ID: 477
+Coupon 477 settled.
+Settling coupon ID: 487
+Coupon 487 settled.
+Settling coupon ID: 490
+Coupon 490 settled.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cup達o para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Settling coupon ID: 1
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Settling coupon ID: 3
+Settling coupon ID: 4
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Settling coupon ID: 32
+Settling coupon ID: 38
+Settling coupon ID: 98
+Settling coupon ID: 100
+Settling coupon ID: 159
+Settling coupon ID: 163
+Settling coupon ID: 170
+Settling coupon ID: 184
+Settling coupon ID: 197
+Settling coupon ID: 230
+Settling coupon ID: 231
+Settling coupon ID: 237
+Settling coupon ID: 238
+Settling coupon ID: 239
+Settling coupon ID: 240
+Settling coupon ID: 254
+Settling coupon ID: 352
+Settling coupon ID: 353
+Settling coupon ID: 354
+Settling coupon ID: 355
+Settling coupon ID: 356
+Settling coupon ID: 357
+Settling coupon ID: 358
+Settling coupon ID: 359
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
+Could not ensure ea-php-cli cache directory!
+=== AUTO SETTLE ===
+Nenhum cupão para settlement.
